@@ -1,1 +1,1 @@
-# Gest-o-de-Igrejas
+# Gestão de Igrejas
